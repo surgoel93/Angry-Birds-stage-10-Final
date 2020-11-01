@@ -1,2 +1,2 @@
-# Angry-Birds-stage-10-Final
-Angry Birds final stage, bugs resolved, multiple birds using array and reload button
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
